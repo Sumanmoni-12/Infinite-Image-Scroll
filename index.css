@@ -1,0 +1,21 @@
+body{
+    padding:0;
+    margin:0;
+    background-color: #152b41;
+}
+.container{
+    width:320px;
+    margin:0 auto;
+    padding:10px;
+}
+.container > div{
+    margin:20px 10px;
+    background-color: #000;
+    border-radius: 15px;
+    box-sizing: 0 0 10px rgba(0,0,0, .3);
+    overflow: hidden;
+}
+.container > div img{
+    display: block;
+    
+}
